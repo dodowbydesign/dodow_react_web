@@ -1,0 +1,42 @@
+#about{
+    max-width: 900px;
+    margin: auto;
+    text-align: center;
+}
+#about main{
+    margin: 20px 0;
+}
+#about main h1{
+    color: #934390;
+}
+#about section {
+    margin:100px 0 ;
+    display: flex;
+    justify-content: space-between;
+
+}
+#about section .block{
+    margin-top: 20px;
+}
+#about section .block .icon{
+    font-size: 34px;
+    color: #934390;
+}
+#about section .block h2{
+    text-decoration: underline;
+    text-decoration-color: #934390;
+}
+#Footer_section{
+
+}
+#Footer_section nav{
+
+}
+
+@media only screen and (max-width: 768px){
+    #about section{
+        flex-direction: column;
+    }
+
+
+}

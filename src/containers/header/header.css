@@ -1,0 +1,22 @@
+header img{
+    display: block;
+    max-width: 800px;
+    max-height: 70vh;
+    margin: auto;
+    vertical-align: middle;
+}
+#Footer_section{
+
+}
+#Footer_section nav{
+
+}
+@media only screen and (max-width: 768px){
+    header img {
+        margin-top: 70px;
+    }
+
+}
+@media only screen and (max-width: 1050px){
+
+}

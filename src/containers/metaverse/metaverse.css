@@ -1,0 +1,31 @@
+#metaverse{
+    max-width: 1000px;
+    text-align: center;
+    margin: 10px auto;
+}
+#metaverse #display{
+    display: flex;
+    margin: 30px auto;
+    align-items: center;
+}
+#metaverse section{
+    max-width: 500px;
+    margin: 10px;
+    padding: 10px;
+    border:1px solid #934390;
+
+}
+#metaverse section img{
+    max-width: 400px;
+}
+
+
+@media only screen and (max-width: 768px){
+    #metaverse #display{
+        flex-direction: column;
+    }
+    #metaverse #display{
+        margin: 10px auto;
+    }
+
+}

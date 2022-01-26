@@ -1,0 +1,11 @@
+#Page{
+}
+#page nav #logo{
+
+    margin: 10px ;
+
+    width: 200px;
+    padding: 20px 0;
+}
+@media only screen and (max-width: 768px){
+}
